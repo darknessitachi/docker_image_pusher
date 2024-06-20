@@ -2,5 +2,5 @@ alpine
 busybox
 docker.io/bitnami/postgresql:14.5.0-debian-11-r35
 redis:7.0.12 
-d3vilh/openvpn-server:latest,
+d3vilh/openvpn-server:latest
 d3vilh/openvpn-ui:latest
